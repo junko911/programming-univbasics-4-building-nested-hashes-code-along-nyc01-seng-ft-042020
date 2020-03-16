@@ -30,7 +30,9 @@ def fourth_challenge
           :attitude => "confused"
         },
         {
-          :name => ""
+          :name => "Nurse",
+          :age => "44",
+          :attitude => 
         }
       ]
    }
